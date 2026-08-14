@@ -1,7 +1,7 @@
 # LAB 16: Cloud AI Environment Setup — Báo Cáo Thực Hành (OCI / ARM A1)
 
 **Thông tin sinh viên:**
-- **Họ và tên:** Phạm Quốc Thành
+- **Họ và tên:** Phạm Quốc Thanh
 - **Mã học viên / MSSV:** 2A202601407
 - **Lớp / Khóa:** AI in Action (Day 16)
 
